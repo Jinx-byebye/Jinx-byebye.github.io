@@ -16,4 +16,20 @@ main:
     image: ./assets/img/ICML2024.png
     notes: Poster
 
+  
+   - title: "Predicting Global Label Relationship Matrix for Graph Neural Networks under Heterophily"
+    authors: <strong>Langzhang Liang</strong>, Xiangjing Hu, Zenglin Xu, Zixing Song, Iwrin King
+    conference_short: NeurIPS
+    conference: Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2023.
+    pdf: https://proceedings.neurips.cc/paper_files/paper/2023/file/23aa2163dea287441ebebc1295d5b3fc-Paper-Conference.pdf
+    image: ./assets/img/NIPS2023.png
+    notes: Poster
+
+  - title: "Tackling Long-Tailed Distribution Issue in Graph Neural Networks via Normalization"
+    authors: <strong>Langzhang Liang</strong>, Zenglin Xu, Zixing Song, Iwrin King, Yuan Qi, Jieping Ye
+    conference_short: TKDE
+    conference: IEEE Transactions on Knowledge and Data Engineering <strong>(TKDE)</strong>, 2023.
+    pdf: https://proceedings.neurips.cc/paper_files/paper/2023/file/23aa2163dea287441ebebc1295d5b3fc-Paper-Conference.pdf
+    image: ./assets/img/TKDE2023.png
+    notes: Poster
  
