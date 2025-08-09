@@ -1,5 +1,3 @@
-## Services
-
 <style>
   .services h4 { margin: 0 10px 0; color: #74b9ff; }
   .services ul { margin: 0 0 20px; padding-left: 1.2em; }
