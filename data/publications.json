@@ -1,0 +1,281 @@
+[
+  {
+    "id": "lineageflow",
+    "status": "published",
+    "year": 2026,
+    "topic": "science",
+    "title": "LineageFlow: Flow Matching for High-Fidelity Family-Aware Protein Sequence Generation",
+    "authors": [
+      "Langzhang Liang",
+      "Ming Yang",
+      "Yi Feng",
+      "Junfan Li",
+      "Shirui Pan",
+      "Yinghui Xu",
+      "Tianlei Ying",
+      "Yizhen Zheng",
+      "Zenglin Xu"
+    ],
+    "venue": "ICML 2026",
+    "venue_full": "International Conference on Machine Learning",
+    "summary": "Protein sequence generation from evolutionary priors, with flow matching and a single rerouting step for objective-guided design.",
+    "paper": "https://arxiv.org/abs/2605.22252",
+    "pdf": "https://arxiv.org/pdf/2605.22252",
+    "code": "https://github.com/Jinx-byebye/LineageFlow",
+    "image": "assets/img/papers/lineageflow.webp",
+    "image_alt": "LineageFlow overview: ancestral priors, family-aware generation, and rerouting."
+  },
+  {
+    "id": "demem",
+    "status": "published",
+    "year": 2026,
+    "topic": "agents",
+    "title": "Remember the Decision, Not the Description: A Rate-Distortion Framework for Agent Memory",
+    "authors": [
+      "Mingxi Zou",
+      "Zhihan Guo",
+      "Langzhang Liang",
+      "Zhuo Wang",
+      "Qifan Wang",
+      "Qingsong Wen",
+      "Irwin King",
+      "Lizhen Qu",
+      "Zenglin Xu"
+    ],
+    "venue": "NeurIPS 2026",
+    "venue_full": "Advances in Neural Information Processing Systems",
+    "summary": "A decision-based view of agent memory: retain the distinctions that matter for future actions under a limited memory budget.",
+    "paper": "https://arxiv.org/abs/2605.10870",
+    "pdf": "https://arxiv.org/pdf/2605.10870",
+    "image": "assets/img/papers/demem.webp",
+    "image_alt": "DeMem workflow for routing histories and refining memory states on decision conflict."
+  },
+  {
+    "id": "darc",
+    "status": "published",
+    "year": 2026,
+    "topic": "agents",
+    "title": "DARC: Disagreement-Aware Alignment via Risk-Constrained Decoding",
+    "authors": [
+      "Mingxi Zou",
+      "Jiaxiang Chen",
+      "Junfan Li",
+      "Langzhang Liang",
+      "Qifan Wang",
+      "Yinghui Xu",
+      "Zenglin Xu"
+    ],
+    "venue": "ICML 2026",
+    "venue_full": "International Conference on Machine Learning",
+    "summary": "Inference-time alignment that accounts for preference disagreement and controls risk without retraining the language model.",
+    "paper": "https://arxiv.org/abs/2603.08145",
+    "pdf": "https://arxiv.org/pdf/2603.08145",
+    "image": "assets/img/papers/darc.webp",
+    "image_alt": "DARC human satisfaction score distributions on high-disagreement prompts."
+  },
+  {
+    "id": "grand",
+    "status": "published",
+    "year": 2026,
+    "topic": "graphs",
+    "title": "GRAND: A Robust Diffusion Framework for Multi-Granularity Graph Anomaly Detection in Web Platforms",
+    "authors": [
+      "Maolin Wang",
+      "Beining Bao",
+      "Hongyu Chen",
+      "Zichun Liu",
+      "Lang Fu",
+      "Jun Chu",
+      "Langzhang Liang",
+      "Zenglin Xu"
+    ],
+    "venue": "The Web Conference 2026",
+    "venue_full": "Proceedings of the ACM Web Conference",
+    "summary": "Joint diffusion of node features and graph edges for detecting anomalies at multiple scales in web graphs.",
+    "paper": "https://doi.org/10.1145/3774904.3793012",
+    "pdf": "https://scholars.cityu.edu.hk/files/501093693/491107451.pdf",
+    "visual_label": [
+      "GRAPH LEARNING",
+      "GRAND",
+      "Diffusion for graph anomaly detection"
+    ]
+  },
+  {
+    "id": "oslr",
+    "status": "published",
+    "year": 2026,
+    "topic": "theory",
+    "title": "New Lower Bound and Upper Bounds on the Regret for Online Sparse Linear Regression",
+    "authors": [
+      "Xiaofeng Cao",
+      "Junfan Li",
+      "Langzhang Liang",
+      "Mingwei Xu",
+      "Xiao Zhang"
+    ],
+    "venue": "IJTCS-FAW 2026",
+    "venue_full": "International Joint Conference on Theoretical Computer Science – Frontier of Algorithmic Wisdom",
+    "summary": "Lower and upper regret bounds for online linear regression when only a limited number of attributes can be observed.",
+    "paper": "https://arxiv.org/abs/2610.11551",
+    "pdf": "https://arxiv.org/pdf/2610.11551"
+  },
+  {
+    "id": "lightgcn",
+    "status": "published",
+    "year": 2026,
+    "topic": "graphs",
+    "title": "Revisiting LightGCN: Unexpected Inflexibility, Inconsistency, and A Remedy Towards Improved Recommendation",
+    "authors": [
+      "Geon Lee",
+      "Kyungho Kim",
+      "Fanchen Bu",
+      "Langzhang Liang",
+      "Kijung Shin"
+    ],
+    "venue": "ACM TORS 2026",
+    "venue_full": "ACM Transactions on Recommender Systems, 4(4), 1–26",
+    "summary": "LightGCN++ improves graph-based recommendation through flexible embedding scaling, neighbor weighting, and layer-wise pooling.",
+    "paper": "https://doi.org/10.1145/3760763",
+    "code": "https://github.com/geon0325/LightGCNpp",
+    "visual_label": [
+      "GRAPH LEARNING",
+      "LightGCN++",
+      "Graph-based recommendation"
+    ]
+  },
+  {
+    "id": "sparsification",
+    "status": "published",
+    "year": 2025,
+    "topic": "graphs",
+    "title": "Mitigating Over-Squashing in Graph Neural Networks by Spectrum-Preserving Sparsification",
+    "authors": [
+      "Langzhang Liang",
+      "Fanchen Bu",
+      "Zixing Song",
+      "Zenglin Xu",
+      "Shirui Pan",
+      "Kijung Shin"
+    ],
+    "venue": "ICML 2025",
+    "venue_full": "International Conference on Machine Learning",
+    "summary": "Graph rewiring that reduces structural bottlenecks while preserving sparsity and the graph's spectral properties.",
+    "paper": "https://arxiv.org/abs/2506.16110",
+    "pdf": "https://arxiv.org/pdf/2506.16110",
+    "code": "https://github.com/Jinx-byebye/GOKU",
+    "image": "assets/img/papers/sparsification.webp",
+    "image_alt": "Spectrum-preserving graph sparsification overview."
+  },
+  {
+    "id": "m2m",
+    "status": "published",
+    "year": 2024,
+    "topic": "graphs",
+    "title": "Sign is Not a Remedy: Multiset-to-Multiset Message Passing for Learning on Heterophilic Graphs",
+    "authors": [
+      "Langzhang Liang",
+      "Sunwoo Kim",
+      "Kijung Shin",
+      "Zenglin Xu",
+      "Shirui Pan",
+      "Yuan Qi"
+    ],
+    "venue": "ICML 2024",
+    "venue_full": "International Conference on Machine Learning",
+    "summary": "Multiset-to-multiset message passing addresses limitations of signed message passing on heterophilic graphs.",
+    "paper": "https://proceedings.mlr.press/v235/liang24c.html",
+    "pdf": "https://arxiv.org/pdf/2405.20652",
+    "code": "https://github.com/Jinx-byebye/m2mgnn",
+    "image": "assets/img/papers/m2m.webp",
+    "image_alt": "Multiset-to-multiset graph neural network message-passing architecture."
+  },
+  {
+    "id": "lrgnn",
+    "status": "published",
+    "year": 2023,
+    "topic": "graphs",
+    "title": "Predicting Global Label Relationship Matrix for Graph Neural Networks under Heterophily",
+    "authors": [
+      "Langzhang Liang",
+      "Xiangjing Hu",
+      "Zenglin Xu",
+      "Zixing Song",
+      "Irwin King"
+    ],
+    "venue": "NeurIPS 2023",
+    "venue_full": "Advances in Neural Information Processing Systems",
+    "summary": "Low-rank approximation recovers global label relationships to support graph learning under both homophily and heterophily.",
+    "paper": "https://proceedings.neurips.cc/paper_files/paper/2023/hash/23aa2163dea287441ebebc1295d5b3fc-Abstract-Conference.html",
+    "pdf": "https://proceedings.neurips.cc/paper_files/paper/2023/file/23aa2163dea287441ebebc1295d5b3fc-Paper-Conference.pdf",
+    "code": "https://github.com/Jinx-byebye/LRGNN",
+    "image": "assets/img/papers/lrgnn.webp",
+    "image_alt": "Low-rank recovery of the global label relationship matrix."
+  },
+  {
+    "id": "resnorm",
+    "status": "published",
+    "year": 2023,
+    "topic": "graphs",
+    "title": "Tackling Long-Tailed Distribution Issue in Graph Neural Networks via Normalization",
+    "authors": [
+      "Langzhang Liang",
+      "Zenglin Xu",
+      "Zixing Song",
+      "Irwin King",
+      "Yuan Qi",
+      "Jieping Ye"
+    ],
+    "venue": "IEEE TKDE 2023",
+    "venue_full": "IEEE Transactions on Knowledge and Data Engineering (online publication, 2023; volume 36, 2024)",
+    "summary": "ResNorm reshapes feature distributions to improve graph learning for low-degree nodes and reduce over-smoothing.",
+    "paper": "https://doi.org/10.1109/TKDE.2023.3315284",
+    "pdf": "https://arxiv.org/pdf/2206.08181",
+    "image": "assets/img/papers/resnorm.webp",
+    "image_alt": "ResNorm analysis of node-wise standard deviation and node classification accuracy."
+  },
+  {
+    "id": "memharm",
+    "status": "preprint",
+    "year": 2026,
+    "topic": "agents",
+    "title": "From Attack Success to Attack Severity: Counterfactual Memory Attacks on LLM Agents",
+    "authors": [
+      "Mingxi Zou",
+      "Langzhang Liang",
+      "Zhuo Wang",
+      "Yiyang Zhao",
+      "Lizhen Qu",
+      "Zenglin Xu"
+    ],
+    "venue": "Preprint · 2026",
+    "venue_full": "arXiv:2609.34132",
+    "summary": "Counterfactual memory regret measures the downstream harm of persistent-memory attacks on language agents.",
+    "paper": "https://arxiv.org/abs/2609.34132",
+    "pdf": "https://arxiv.org/pdf/2609.34132",
+    "image": "assets/img/papers/memharm.webp",
+    "image_alt": "MemHarm framework for selecting and evaluating counterfactual memory edits."
+  },
+  {
+    "id": "waggle",
+    "status": "preprint",
+    "year": 2026,
+    "topic": "agents",
+    "title": "Waggle: Learning One Anonymous Local Law for Self-Organizing LLM Swarms",
+    "authors": [
+      "Mingxi Zou",
+      "Wei Zhu",
+      "Zhuo Wang",
+      "Langzhang Liang",
+      "Zhiwen Tang",
+      "Yinghui Xu",
+      "Zenglin Xu"
+    ],
+    "venue": "Preprint · 2026",
+    "venue_full": "arXiv:2609.34136",
+    "summary": "A shared local policy lets interchangeable language agents coordinate and reorganize as interaction conditions change.",
+    "paper": "https://arxiv.org/abs/2609.34136",
+    "pdf": "https://arxiv.org/pdf/2609.34136",
+    "image": "assets/img/papers/waggle.webp",
+    "image_alt": "Waggle overview of a shared local policy and self-organizing agent coordination."
+  }
+]

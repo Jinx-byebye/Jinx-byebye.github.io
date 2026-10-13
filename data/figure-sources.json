@@ -1,0 +1,11 @@
+{
+  "lineageflow": {"source": "https://github.com/Jinx-byebye/LineageFlow/blob/main/assets/method.png", "figure": 1},
+  "demem": {"source": "https://arxiv.org/pdf/2605.10870", "page": 4, "figure": 1},
+  "darc": {"source": "https://arxiv.org/pdf/2603.08145", "page": 1, "figure": 1},
+  "sparsification": {"source": "https://arxiv.org/pdf/2506.16110", "page": 2, "figure": 1},
+  "m2m": {"source": "https://arxiv.org/pdf/2405.20652", "page": 6, "figure": 2},
+  "lrgnn": {"source": "https://proceedings.neurips.cc/paper_files/paper/2023/file/23aa2163dea287441ebebc1295d5b3fc-Paper-Conference.pdf", "page": 9, "figure": 5},
+  "resnorm": {"source": "https://arxiv.org/pdf/2206.08181", "page": 2, "figure": 1},
+  "memharm": {"source": "https://arxiv.org/pdf/2609.34132", "page": 4, "figure": 3},
+  "waggle": {"source": "https://arxiv.org/pdf/2609.34136", "page": 3, "figure": 2}
+}
